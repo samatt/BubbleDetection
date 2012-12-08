@@ -8,3 +8,9 @@ Things to remember:
 
 3. I tried calibrating it using the calibration mode in the GUI but as this application is not a touch screen interface and CCV is designed to work for this I couldn't make it work.
 I went through a rather tedious trial and error process and manually configured the config.xml file to add calibration points.
+
+For documentation införmation on this project go to:
+
+suryamattu.com/pop
+or
+itpbubbles.tumblr.com
